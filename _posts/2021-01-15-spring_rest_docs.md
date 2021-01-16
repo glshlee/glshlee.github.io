@@ -1,5 +1,5 @@
 ---
-title: spring restDocs
+title: Spring REST Docs
 author: glshlee
 date: 2021-01-15
 categories: [spring, docs]
