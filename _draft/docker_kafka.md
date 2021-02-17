@@ -19,3 +19,7 @@ services:
       - /var/run/docker.sock:/var/run/docker.sock
 ```
 
+# 실행
+``` bash
+docker-compose up -d
+```
