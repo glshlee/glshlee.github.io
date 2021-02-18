@@ -23,3 +23,8 @@ services:
 ``` bash
 docker-compose up -d
 ```
+
+## bin 디렉토리 copy
+``` bash
+docker cp my-kafka:opt/kafka/bin bin
+```
