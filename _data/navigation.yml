@@ -10,3 +10,13 @@ main:
     url: /collection-archive/
   - title: "Terms &amp; Privacy Policy"
     url: /terms/
+
+sidebar-category:
+  - title: "카테고리"
+    children:
+      - title: "블로그"
+        url: "/blog/"
+      - title: "test"
+        url:  "/test/"
+      - title: "카테고리C"
+        url:  "/CategoryC"
